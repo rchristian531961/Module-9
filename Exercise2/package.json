@@ -1,0 +1,18 @@
+{
+  "name": "exercise2",
+  "version": "1.0.0",
+  "description": "(1) Install express, init, i, mongoose\r (2) Set up Blog Post: Create Users, Post Multiple times, Comment on Posts\r (3) Models: Create Post, Create User, (Comment on Post)\r (4) Mongoose Model: \r (5) Server, Routes, Controllers, Config",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
